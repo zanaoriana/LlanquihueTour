@@ -1,4 +1,4 @@
-markdown# 🧠 Semana 3 – Desarrollo Orientado a Objetos I
+🧠 Semana 3 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autora del proyecto
 - **Nombre completo:** [Oriana Navarrete]
